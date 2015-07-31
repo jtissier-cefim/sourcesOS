@@ -21,28 +21,28 @@
 								</op:txtResM>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Les grandes nouveautés sur Windows 10</sc:para>
+										<sc:para xml:space="preserve">Les grandes nouveautés sur <sc:inlineStyle role="emp">Windows 10</sc:inlineStyle></sc:para>
 										<sc:itemizedList>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Un seul Windows pour les ordinateurs, tablettes et smartphones</sc:para>
+												<sc:para xml:space="preserve">Un seul <sc:inlineStyle role="emp">Windows</sc:inlineStyle> pour les ordinateurs, tablettes et smartphones</sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Le mode tablette est mieux différencié du mode bureau (ordinateur)</sc:para>
+												<sc:para xml:space="preserve">Le <sc:inlineStyle role="emp">mode tablette</sc:inlineStyle> est mieux différencié du <sc:inlineStyle role="emp">mode bureau</sc:inlineStyle> (ordinateur)</sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Un remplaçant pour Internet Explorer : Edge</sc:para>
+												<sc:para xml:space="preserve">Un remplaçant pour Internet Explorer : <sc:inlineStyle role="emp">Edge</sc:inlineStyle></sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">L'arrivée de l'assistant vocal Cortana</sc:para>
+												<sc:para xml:space="preserve">L'arrivée de l'assistant vocal <sc:inlineStyle role="emp">Cortana</sc:inlineStyle></sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">La gestion de plusieurs bureaux et du trackpad se rapproche à celle sur Mac</sc:para>
+												<sc:para xml:space="preserve">La gestion de plusieurs bureaux et du touchpad se rapproche à celle sur <sc:inlineStyle role="emp">Mac</sc:inlineStyle></sc:para>
 											</sc:listItem>
 											<sc:listItem>
 												<sc:para xml:space="preserve">Une mise à jour gratuite (pendant la première année) pour les possesseurs d'une version 7 ou 8</sc:para>
 											</sc:listItem>
 											<sc:listItem>
-												<sc:para xml:space="preserve">Jouer à sa Xbox depuis sa tablette ou son smartphone</sc:para>
+												<sc:para xml:space="preserve">Jouer à sa <sc:inlineStyle role="emp">Xbox</sc:inlineStyle> depuis sa tablette ou son smartphone</sc:para>
 											</sc:listItem>
 										</sc:itemizedList>
 									</op:txt>

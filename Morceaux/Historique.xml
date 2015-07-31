@@ -14,8 +14,8 @@
 						</op:txtResM>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Nous sommes dans les années 1970. Au bureau, on utilise des machines à écrire. S'il faut copier un document, on utilise vraisemblablement un miméographe ou du papier carbone. Rares sont ceux qui ont entendu parler de micro-ordinateurs, mais deux passionnés d'informatique, Bill Gates et Paul Allen comprennent que l'avenir passera par l'ordinateur personnel.</sc:para>
-								<sc:para xml:space="preserve">En 1975, Gates et Allen établissent un partenariat baptisé Microsoft. Comme la plupart des start-ups, Microsoft commence petit mais vise un objectif de taille : un ordinateur sur chaque bureau et dans chaque maison. Au cours des années suivantes, Microsoft commence à changer notre façon de travailler.</sc:para>
+								<sc:para xml:space="preserve">Nous sommes dans les années 1970. Au bureau, on utilise des machines à écrire. S'il faut copier un document, on utilise vraisemblablement un <sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Mim%C3%A9ographe</sp:url></op:urlM>miméographe</sc:phrase> ou du papier carbone. Rares sont ceux qui ont entendu parler de micro-ordinateurs, mais deux passionnés d'informatique, <sc:inlineStyle role="emp">Bill Gates</sc:inlineStyle> et <sc:inlineStyle role="emp">Paul Allen</sc:inlineStyle> comprennent que l'avenir passera par l'ordinateur personnel.</sc:para>
+								<sc:para xml:space="preserve">En 1975, <sc:inlineStyle role="emp">Gates</sc:inlineStyle> et <sc:inlineStyle role="emp">Allen</sc:inlineStyle> établissent un partenariat baptisé <sc:inlineStyle role="emp">Microsoft</sc:inlineStyle>. Comme la plupart des start-ups, <sc:inlineStyle role="emp">Microsoft</sc:inlineStyle> commence petit mais vise un objectif de taille : un ordinateur sur chaque bureau et dans chaque maison. Au cours des années suivantes, <sc:inlineStyle role="emp">Microsoft</sc:inlineStyle> commence à changer notre façon de travailler.</sc:para>
 							</op:txt>
 						</sp:txt>
 						<sp:img sc:refUri="/Ressources/c3265e0c-039e-417d-a23c-89100118d8a7_7.jpg"/>
@@ -31,10 +31,10 @@
 			<op:res>
 				<sp:txt>
 					<op:txt>
-						<sc:para xml:space="preserve">Windows 8.1 va dans le sens de Windows 8 en continuant à fournir une collection d'applications et une connectivité Cloud puissantes sur des appareils exceptionnels. </sc:para>
-						<sc:para xml:space="preserve">C'est tout ce que les utilisateurs aiment dans Windows 8, avec des améliorations. </sc:para>
-						<sc:para xml:space="preserve">Windows 10 continu d'évoluer vers cet objectif en rajoutant ce qui a fait le succès des versions antérieures comme la barre "Démarrer", mais aussi des nouvelles fonctionnalités comme l'assistant "Cortana" (l'équivalent de Siri sur Mac). </sc:para>
-						<sc:para xml:space="preserve">La prochaine échéance sera en 2025, qui sera la date de fin programmée de Windows 10.</sc:para>
+						<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Windows 8.1</sc:inlineStyle> va dans le sens de <sc:inlineStyle role="emp">Windows 8</sc:inlineStyle> en continuant à fournir une collection d'applications et une connectivité <sc:inlineStyle role="emp"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Cloud_computing</sp:url></op:urlM>Cloud</sc:phrase></sc:inlineStyle> puissantes sur des appareils exceptionnels. </sc:para>
+						<sc:para xml:space="preserve">C'est tout ce que les utilisateurs aiment dans <sc:inlineStyle role="emp">Windows 8</sc:inlineStyle>, avec des améliorations. </sc:para>
+						<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Windows 10</sc:inlineStyle> continu d'évoluer vers cet objectif en rajoutant ce qui a fait le succès des versions antérieures comme <sc:inlineStyle role="emp">la barre "Démarrer"</sc:inlineStyle>, mais aussi des nouvelles fonctionnalités comme <sc:inlineStyle role="emp">l'assistant "Cortana"</sc:inlineStyle> (l'équivalent de <sc:inlineStyle role="emp">Siri</sc:inlineStyle> sur <sc:inlineStyle role="emp">Mac</sc:inlineStyle>). </sc:para>
+						<sc:para xml:space="preserve">La prochaine échéance sera en 2025, qui sera la date de fin programmée de <sc:inlineStyle role="emp">Windows 10</sc:inlineStyle>.</sc:para>
 					</op:txt>
 				</sp:txt>
 			</op:res>

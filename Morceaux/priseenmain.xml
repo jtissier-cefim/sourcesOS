@@ -13,7 +13,7 @@
 						</op:txtResM>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">De l'écran d'accueil à l'écran tactile en passant par le Bureau, le clavier et la souris. L'utilisation de Windows évolue en fonction des versions, mais cela reste du Windows : on retrouvera les outils de base des versions précédentes : l'explorateur, les raccourcis clavier par exemple, mais aussi de nouvelles fonctionnalités liées aux tactiles ou aux nouvelles technologies.</sc:para>
+								<sc:para xml:space="preserve">De l'<sc:inlineStyle role="emp">écran d'accueil</sc:inlineStyle> à l'écran tactile en passant par <sc:inlineStyle role="emp">le Bureau</sc:inlineStyle>, le clavier et la souris. L'utilisation de <sc:inlineStyle role="emp">Windows</sc:inlineStyle> évolue en fonction des versions, mais cela reste du <sc:inlineStyle role="emp">Windows</sc:inlineStyle> : on retrouvera les outils de base des versions précédentes : <sc:inlineStyle role="emp">l'explorateur de fichiers</sc:inlineStyle>, les <sc:inlineStyle role="emp">raccourcis clavier</sc:inlineStyle> par exemple, mais aussi de nouvelles fonctionnalités liées aux tactiles ou aux nouvelles technologies.</sc:para>
 							</op:txt>
 						</sp:txt>
 						<sp:img sc:refUri="/Ressources/Démarrer Windows 8 directement sur le bureau  01.png"/>
@@ -32,7 +32,7 @@
 			<op:res>
 				<sp:txt>
 					<op:txt>
-						<sc:para xml:space="preserve">Dans la prochaine version Windows 10, on retrouvera la plupart des fonctionnalités de Windows 8.1 avec quelques améliorations, ainsi que de nouvelles comme Cortana, Edge (qui remplace Internet explorer), ou encore le retour de la barre "Démarrer".</sc:para>
+						<sc:para xml:space="preserve">Dans la prochaine version <sc:inlineStyle role="emp">Windows 10</sc:inlineStyle>, on retrouvera la plupart des fonctionnalités de <sc:inlineStyle role="emp">Windows 8.1</sc:inlineStyle> avec quelques améliorations, ainsi que de nouvelles comme <sc:inlineStyle role="emp">Cortana</sc:inlineStyle>, <sc:inlineStyle role="emp">Edge</sc:inlineStyle> (qui remplace <sc:inlineStyle role="emp">Internet explorer</sc:inlineStyle>), ou encore le retour de <sc:inlineStyle role="emp">la barre "Démarrer"</sc:inlineStyle>.</sc:para>
 					</op:txt>
 				</sp:txt>
 			</op:res>

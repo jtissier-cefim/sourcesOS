@@ -11,7 +11,7 @@
 					<op:res>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Il y a plusieurs méthodes pour effectuer les opérations de base sur votre ordinateur, ici équipé de Windows, que ce soit par le biais de la souris, du touchpad ou des fonctions tactiles. La maîtrise de ces différents outils est essentielle pour une utilisation optimale de votre ordinateur.</sc:para>
+								<sc:para xml:space="preserve">Il y a plusieurs méthodes pour effectuer les opérations de base sur votre ordinateur, ici équipé de <sc:inlineStyle role="emp">Windows</sc:inlineStyle>, que ce soit par le biais de <sc:inlineStyle role="emp">la souris</sc:inlineStyle>, du <sc:inlineStyle role="emp">touchpad</sc:inlineStyle> ou des <sc:inlineStyle role="emp">fonctions tactiles</sc:inlineStyle>. La maîtrise de ces différents outils est essentielle pour une utilisation optimale de votre ordinateur.</sc:para>
 							</op:txt>
 						</sp:txt>
 					</op:res>
@@ -35,8 +35,8 @@
 										</op:txtResM>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">Une souris est un dispositif de pointage pour ordinateur. Elle est composée d'un petit boîtier fait pour tenir sous la main, sur lequel se trouvent un ou plusieurs boutons, et une molette dans la plupart des cas.</sc:para>
-												<sc:para xml:space="preserve">La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.</sc:para>
+												<sc:para xml:space="preserve">Une souris est un <sc:inlineStyle role="emp"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Dispositif_de_pointage</sp:url></op:urlM>dispositif de pointage</sc:phrase></sc:inlineStyle> pour ordinateur. Elle est composée d'un petit boîtier fait pour tenir sous la main, sur lequel se trouvent un ou plusieurs boutons, et une molette dans la plupart des cas.</sc:para>
+												<sc:para xml:space="preserve">La souris a été inventée en 1963 par <sc:inlineStyle role="emp"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Douglas_Engelbart</sp:url></op:urlM>Douglas Engelbart</sc:phrase></sc:inlineStyle> du Stanford Research Institute et présentée au public en 1968.</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/01810438-photo-la-premiere-souris-de-douglas-engelbart.jpg"/>
@@ -49,7 +49,8 @@
 										</op:txtResM>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">Pendant de nombreuses années les souris informatiques ne communiquaient avec l'ordinateur que par l'intermédiaire d'un fil, ce qui les faisait ressembler à des souris domestiques. Depuis, des modèles dont les communications avec l'ordinateur se font par ondes radio ou par liaisons infra-rouge sont courants.</sc:para>
+												<sc:para xml:space="preserve">Pendant de nombreuses années les souris informatiques ne communiquaient avec l'ordinateur que par l'intermédiaire d'un fil, ce qui les faisait ressembler à des souris domestiques. </sc:para>
+												<sc:para xml:space="preserve">Depuis, des modèles dont les communications avec l'ordinateur se font par ondes radio ou par liaisons infra-rouge sont courants.</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/572142-souris-4.jpg"/>
@@ -91,7 +92,7 @@
 										<sp:txt>
 											<op:txt>
 												<sc:para xml:space="preserve">Le clavier informatique peut avoir différents agencements suivant la langue que vous utilisez. Les francophones utilisent la méthode AZERTY et les anglophones QWERTY, cela est du à une contrainte technique à la base : les premiers claviers analogiques fonctionnaient sur les machines à écrire. </sc:para>
-												<sc:para xml:space="preserve">Remington (fabricant américain) a mis en place ce système car les tiges des touches voisines se coinçaient fréquemment l'une l'autre. La disposition QWERTY a donc été conçue afin que les lettres les plus fréquemment contiguës dans les mots de la langue anglaise correspondent à des « barres à caractères » (les marteaux frappant le papier) les plus écartées possibles, ce qui limite les risques de blocage des tiges. Ce système a été adapté ensuite aux autres langues.</sc:para>
+												<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Remington</sc:inlineStyle> (fabricant de machine à écrire américain) a mis en place ce système car les tiges des touches voisines se coinçaient fréquemment l'une l'autre. La disposition QWERTY a donc été conçue afin que les lettres les plus fréquemment contiguës dans les mots de la langue anglaise correspondent à des « barres à caractères » (les marteaux frappant le papier) les plus écartées possibles, ce qui limite les risques de blocage des tiges. Ce système a été adapté ensuite aux autres langues.</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/Ancienne_machine_a_ecrire_Remington565.jpg"/>
@@ -132,7 +133,7 @@
 										</op:txtResM>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">Un pavé tactile ou touchpad terme anglais, est un dispositif de pointage utilisé principalement sur les ordinateurs portables en remplacement d'une souris. Il a été inventé par George E. Gerpheide en 1988.</sc:para>
+												<sc:para xml:space="preserve">Un pavé tactile ou touchpad terme anglais, est un dispositif de pointage utilisé principalement sur les ordinateurs portables en remplacement d'une souris. Il a été inventé par <sc:inlineStyle role="emp">George E. Gerpheide</sc:inlineStyle> en 1988.</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/touchpad-suddenly-stopped-working.jpg"/>
@@ -173,7 +174,8 @@
 										</op:txtResM>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">Un écran tactile est un périphérique informatique qui combine les fonctionnalités d'affichage d'un écran (moniteur) et celles d'un dispositif de pointage. Le premier ordinateur équipé d'un écran tactile a été développé par IBM en 1972 avec le PLATO IV. Surtout adaptée aux tablettes et aux smartphones, on retrouve ce système sur des ordinateurs de bureau ou encore sur des équipements publics (comme les bornes SNCF).</sc:para>
+												<sc:para xml:space="preserve">Un écran tactile est un périphérique informatique qui combine les fonctionnalités d'affichage d'un écran (moniteur) et celles d'un dispositif de pointage. </sc:para>
+												<sc:para xml:space="preserve">Le premier ordinateur équipé d'un écran tactile a été développé par <sc:inlineStyle role="emp">IBM</sc:inlineStyle> en 1972 avec le <sc:inlineStyle role="emp">PLATO IV</sc:inlineStyle>. Surtout adaptée aux tablettes et aux smartphones, on retrouve ce système sur des ordinateurs de bureau ou encore sur des équipements publics (comme les bornes SNCF).</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/lg-et83.jpg"/>
