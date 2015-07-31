@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ueDiv xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:ueDivM>
+			<sp:title>Prise en main</sp:title>
+		</op:ueDivM>
+		<sp:intro>
+			<op:res>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">De l'écran d'accueil à l'écran tactile en passant par le Bureau, le clavier et la souris. L'utilisation de Windows évolue en fonction des versions, mais cela reste du Windows : on retrouvera les outils de base des versions précédentes : l'explorateur, les raccourcis clavier par exemple, mais aussi de nouvelles fonctionnalités liées aux tactiles ou aux nouvelles technologies.</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Ressources/Démarrer Windows 8 directement sur le bureau  01.png"/>
+					</op:txtRes>
+				</sp:txtRes>
+			</op:res>
+		</sp:intro>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/ClavierSourisTactile.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/BureauAccueilWin8.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/explorateurWin8.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/ExtensionsFichiersWin.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/RechercherInstallerWin8.xml"/>
+		<sp:courseUa sc:refUri="/Morceaux/Prise en main de windows 8/qcmPriseEnMainWindows.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/Prise en main de windows 8/AllerPlusLoinWindows.xml"/>
+		<sp:conclu>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Dans la prochaine version Windows 10, on retrouvera la plupart des fonctionnalités de Windows 8.1 avec quelques améliorations, ainsi que de nouvelles comme Cortana, Edge (qui remplace Internet explorer), ou encore le retour de la barre "Démarrer".</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:conclu>
+	</op:ueDiv>
+</sc:item>

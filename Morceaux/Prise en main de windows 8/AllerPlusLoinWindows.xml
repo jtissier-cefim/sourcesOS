@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:expUc xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:uM>
+			<sp:title>Pour aller plus loin</sp:title>
+		</op:uM>
+		<sp:pb>
+			<op:pb>
+				<sp:comp>
+					<op:pbTi>
+						<sp:title>Pour aller plus loin avec Windows</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows/personalization-accessibility-help#personalization-accessibility-help=windows-8&amp;v1h=win8tab1&amp;v2h=win7tab1&amp;v3h=winvistatab1&amp;v4h=winxptab1</sp:url></op:urlM>Comment personnaliser Windows ?</sc:phrase></sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:comp>
+			</op:pb>
+		</sp:pb>
+	</op:expUc>
+</sc:item>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:expUc xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:uM>
+			<sp:title>Rechercher et/ou installer une application</sp:title>
+		</op:uM>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Rechercher un fichier ou une application</sp:title>
+				</op:expUcDivM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txtRes>
+									<op:txtRes>
+										<op:txtResM>
+											<sp:pos>lft</sp:pos>
+										</op:txtResM>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Plusieurs méthodes sont disponibles pour accéder à votre outil de recherche : </sc:para>
+												<sc:itemizedList>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Aller chercher l'icône de recherche (loupe) sur l'écran d'accueil </sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Dans le menu des charmes (apparaissant sur la droite de l'écran, quand vous amenez votre souris dans le coin à droite)</sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Dans l'écran listant toutes les applications, </sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Directement en tapant au clavier sur l'écran d'accueil </sc:para>
+													</sc:listItem>
+													<sc:listItem>
+														<sc:para xml:space="preserve">Le raccourcis clavier "Windows+S".</sc:para>
+													</sc:listItem>
+												</sc:itemizedList>
+											</op:txt>
+										</sp:txt>
+										<sp:img sc:refUri="/Ressources/722c2f88-ea65-48e3-b3b9-a22f9a30c3dd.png"/>
+									</op:txtRes>
+								</sp:txtRes>
+							</op:res>
+						</sp:info>
+						<sp:meth>
+							<op:pbTi>
+								<sp:title>Documentation officielle Microsoft</sp:title>
+							</op:pbTi>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/search-apps-files-settings</sp:url></op:urlM>Comment faire une recherche ?</sc:phrase></sc:para>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:meth>
+					</op:pb>
+				</sp:pb>
+			</op:expUcDiv>
+		</sp:div>
+		<sp:div>
+			<op:expUcDiv>
+				<op:expUcDivM>
+					<sp:title>Installer une application</sp:title>
+				</op:expUcDivM>
+				<sp:pb>
+					<op:pb>
+						<sp:info>
+							<op:pbTi/>
+							<op:res>
+								<sp:txtRes>
+									<op:txtRes>
+										<op:txtResM>
+											<sp:pos>lft</sp:pos>
+										</op:txtResM>
+										<sp:txt>
+											<op:txt>
+												<sc:para xml:space="preserve">Vous pouvez installer une application soit en passant pas le "Windows Store" ou lancer un exécutable téléchargé ou copié sur votre ordinateur</sc:para>
+											</op:txt>
+										</sp:txt>
+										<sp:img sc:refUri="/Ressources/Windows_Store_logo.png"/>
+									</op:txtRes>
+								</sp:txtRes>
+							</op:res>
+						</sp:info>
+						<sp:meth>
+							<op:pbTi>
+								<sp:title>Documentation officielle Microsoft</sp:title>
+							</op:pbTi>
+							<op:res>
+								<sp:txt>
+									<op:txt>
+										<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/apps-windows-store-tutorial</sp:url></op:urlM>Comment rechercher et installer une application ?</sc:phrase></sc:para>
+									</op:txt>
+								</sp:txt>
+							</op:res>
+						</sp:meth>
+					</op:pb>
+				</sp:pb>
+			</op:expUcDiv>
+		</sp:div>
+	</op:expUc>
+</sc:item>

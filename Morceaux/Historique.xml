@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ueDiv xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:ueDivM>
+			<sp:title>Historique de Windows</sp:title>
+		</op:ueDivM>
+		<sp:intro>
+			<op:filter/>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Le commencement</sc:para>
+					</op:txt>
+				</sp:txt>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Nous sommes dans les années 1970. Au bureau, on utilise des machines à écrire. S'il faut copier un document, on utilise vraisemblablement un miméographe ou du papier carbone. Rares sont ceux qui ont entendu parler de micro-ordinateurs, mais deux passionnés d'informatique, Bill Gates et Paul Allen comprennent que l'avenir passera par l'ordinateur personnel.</sc:para>
+								<sc:para xml:space="preserve">En 1975, Gates et Allen établissent un partenariat baptisé Microsoft. Comme la plupart des start-ups, Microsoft commence petit mais vise un objectif de taille : un ordinateur sur chaque bureau et dans chaque maison. Au cours des années suivantes, Microsoft commence à changer notre façon de travailler.</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Ressources/c3265e0c-039e-417d-a23c-89100118d8a7_7.jpg"/>
+					</op:txtRes>
+				</sp:txtRes>
+			</op:res>
+		</sp:intro>
+		<sp:courseUc sc:refUri="/Morceaux/historique/XXe.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/historique/EvolutionInterfaceWindows.xml"/>
+		<sp:courseUc sc:refUri="/Morceaux/historique/FuturWindows10.xml"/>
+		<sp:courseUa sc:refUri="/Morceaux/historique/qcmHistoriqueWindows.xml"/>
+		<sp:conclu>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Windows 8.1 va dans le sens de Windows 8 en continuant à fournir une collection d'applications et une connectivité Cloud puissantes sur des appareils exceptionnels. C'est tout ce que les utilisateurs aiment dans Windows 8, avec des améliorations. Windows 10 continu d'évoluer vers cet objectif en rajoutant ce qui a fait le succès des versions antérieures comme la barre "Démarrer", mais aussi des nouvelles fonctionnalités comme l'assistant "Cortana" (l'équivalent de Siri sur Mac). La prochaine échéance sera en 2025, qui sera la date de fin programmée de Windows 10.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:conclu>
+	</op:ueDiv>
+</sc:item>

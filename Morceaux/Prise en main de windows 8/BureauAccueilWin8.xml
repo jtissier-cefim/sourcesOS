@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:expUc xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:uM>
+			<sp:title>Utiliser le bureau et l'écran d'accueil</sp:title>
+		</op:uM>
+		<sp:pb>
+			<op:pb>
+				<sp:info>
+					<op:pbTi/>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Avec Windows 8.1, vous pouvez démarrer à partir du Bureau que l'on connaisait déjà sur les versions antérieures ou à partir de l'écran d'accueil moderne qui indique les applications sous forme de Tuiles dynamiques. Vous pouvez utiliser l'écran tactile, la souris ou le clavier suivant ce qui vous convient le mieux en terme d'ergonomie. Vous pouvez également utiliser les périphériques que vous souhaitez, car Windows est compatible avec pratiquement tous les accessoires. Par ailleurs, Bing Smart Search vous permet d'effectuer des recherches simultanées sur votre PC, sur le web, dans le cloud et dans les applications, cette fonction "Rechercher" est disponible a plusieurs endroits sur l'interface que ce soit sur l'écran d'accueil, dans la liste des applications ou encore dans le menu pop-up sur la droite de l'écran.</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/getting-around-tutorial</sp:url></op:urlM>Site officiel Microsoft</sc:phrase></sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:res sc:refUri="/Ressources/videoaccueilWin8.mWeb">
+							<op:resInfoM/>
+						</sp:res>
+					</op:res>
+				</sp:info>
+			</op:pb>
+		</sp:pb>
+	</op:expUc>
+</sc:item>

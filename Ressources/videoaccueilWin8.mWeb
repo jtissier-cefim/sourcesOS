@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:mediaWeb xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:binAltM>
+			<sp:title>Tutoriel Windows 8.1</sp:title>
+		</op:binAltM>
+		<sp:unknown>
+			<op:mwUnM>
+				<sp:frag>&lt;xhtml:iframe xmlns:xhtml="http://www.w3.org/1999/xhtml" width="560" height="315" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/AKGWxUfWfDw"&gt;&lt;/xhtml:iframe&gt;</sp:frag>
+			</op:mwUnM>
+		</sp:unknown>
+	</op:mediaWeb>
+</sc:item>

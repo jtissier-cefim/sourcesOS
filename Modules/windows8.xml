@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ue xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:ueM>
+			<sp:title>Windows 8</sp:title>
+		</op:ueM>
+		<sp:obj>
+			<op:sTxt>
+				<sc:itemizedList>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Connaissances sur l'évolution de Windows</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Trouver ses repères sur le système d'exploitation Windows 8.1</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Configurer son espace de travail (bureau/accueil)</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Savoir utiliser l'explorateur de fichiers</sc:para>
+					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Rechercher et/ou installer une application</sc:para>
+					</sc:listItem>
+				</sc:itemizedList>
+			</op:sTxt>
+		</sp:obj>
+		<sp:intro>
+			<op:res>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows est le système d'exploitation développé par Microsoft, il est le plus utilisé au monde encore aujourd'hui, depuis c'est début dans les années 1970. Il reste le leader sur PC (Personnal Computer) loin devant Mac et Linux avec 90% de part de marché en 2014-2015.</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Ressources/microsoft-reveals-the-official-windows-10-wallpaper-485311-4.jpg"/>
+					</op:txtRes>
+				</sp:txtRes>
+			</op:res>
+		</sp:intro>
+		<sp:div sc:refUri="/Morceaux/Historique.xml"/>
+		<sp:div sc:refUri="/Morceaux/priseenmain.xml"/>
+		<sp:conclu>
+			<op:res>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows est un produit techniquement très critiqué par certains. Il est notamment reproché à ce système son instabilité (par exemple les écrans bleus de la mort) et sa vulnérabilité. Pourtant, sa popularité n'a jamais été menacée, principalement parce que les clients particuliers ne peuvent pas refuser à l'achat ces logiciels en vente liée. Cet avantage concurrentiel a amené Microsoft à détenir une incontestable suprématie d'ordre culturel, le grand public n'imaginant même pas qu'un ordinateur personnel puisse fonctionner sans Windows alors qu'il existe des alternatives, commerciales ou non, pouvant répondre à ses besoins comme Mac OS (incompatible avec les PC), les nombreuses distributions Linux et les systèmes *BSD ou AmigaOS (incompatible avec les PC).</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Ressources/microsoft-reveals-the-official-windows-10-wallpaper-485311-4.jpg"/>
+					</op:txtRes>
+				</sp:txtRes>
+				<sp:res sc:refUri="/Ressources/blanc.png">
+					<op:resInfoM/>
+				</sp:res>
+				<sp:txtRes>
+					<op:txtRes>
+						<op:txtResM>
+							<sp:pos>lft</sp:pos>
+						</op:txtResM>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Retrouvez tous les liens utiles dans la rubrique "Références"</sc:para>
+							</op:txt>
+						</sp:txt>
+						<sp:img sc:refUri="/Ressources/toolsOver.png"/>
+					</op:txtRes>
+				</sp:txtRes>
+				<sp:res sc:refUri="/Ressources/blanc.png">
+					<op:resInfoM/>
+				</sp:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Vous êtes arrivé à la fin de ce module.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sp:conclu>
+		<sp:genRef>
+			<op:genRef>
+				<sp:ref sc:refUri="/Ressources/ref.ref"/>
+				<sp:ref sc:refUri="/Ressources/ref_02.ref"/>
+			</op:genRef>
+		</sp:genRef>
+	</op:ue>
+</sc:item>

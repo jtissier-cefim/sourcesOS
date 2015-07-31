@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:courseUa xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:uM>
+			<sp:title>QCM Historique de Windows</sp:title>
+		</op:uM>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 1</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Qui a créé Microsoft ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Bill Gates et Paul Allen</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Créateurs de Microsoft en 1975</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Steve Jobs, Steve Wozniak et Ronald Wayne</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Créateurs d'Apple le 1er avril 1976</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Tim Paterson</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Inventeur de MS-DOS en 1980</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="1"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 2</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Sur quel système d'exploitation fonctionnait la première interface Windows ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Mac OS</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Apple</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">MS-DOS</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Inventé par Tim Paterson en 1980</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Linux</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Inventé par Linus Torvalds</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 3</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">MS‑DOS est l'acronyme de : </sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Microsoft Disk Operating System</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Microsoft Desktop Organizer System</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Mozilla Support Dot Origin System</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="1"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 4</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Quelle version de Windows n'a jamais existé ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows 2.11</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Sorti en 1989</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows MO</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows Me</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Sorti en 2000</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 5</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Que veut dire le NT dans “Windows NT” ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Natural Transition</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">New Technology</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">1er système ne reposant pas sur MS-DOS</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Net Transmission</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+	</op:courseUa>
+</sc:item>

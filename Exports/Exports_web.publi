@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:webRoot xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:webRootM>
+			<sp:version>1</sp:version>
+			<sp:date>17/07/2015</sp:date>
+			<sp:auth>
+				<op:sTxt>
+					<sc:para xml:space="preserve">J. Tissier</sc:para>
+				</op:sTxt>
+			</sp:auth>
+			<sp:settings>
+				<sp:ref>yes</sp:ref>
+			</sp:settings>
+		</op:webRootM>
+		<sp:ue sc:refUri="/Modules/windows8.xml"/>
+	</op:webRoot>
+</sc:item>

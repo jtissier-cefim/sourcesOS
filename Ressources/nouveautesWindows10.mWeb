@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:mediaWeb xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:binAltM>
+			<sp:desc>
+				<op:sTxt>
+					<sc:para xml:space="preserve">Voici une vidéo vous présentant les dernières nouveautés de windows</sc:para>
+				</op:sTxt>
+			</sp:desc>
+		</op:binAltM>
+		<sp:unknown>
+			<op:mwUnM>
+				<sp:frag>&lt;xhtml:iframe xmlns:xhtml=&quot;http://www.w3.org/1999/xhtml&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/1njh6aQVupE&quot;&gt;&lt;/xhtml:iframe&gt;</sp:frag>
+			</op:mwUnM>
+		</sp:unknown>
+	</op:mediaWeb>
+</sc:item>

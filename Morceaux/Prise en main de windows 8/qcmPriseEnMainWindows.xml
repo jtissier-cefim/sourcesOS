@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:courseUa xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:uM>
+			<sp:title>QCM Prise en main de Windows</sp:title>
+		</op:uM>
+		<sp:trainUcMcqMur>
+			<op:mcqMur>
+				<op:exeM>
+					<sp:title>Question 1</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Où peut-on effectuer une recherche ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice solution="checked">
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Sur l'écran d'accueil</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice solution="checked">
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Dans la barre des charmes</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice solution="checked">
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Dans l'explorateur de fichiers</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+				</sc:choices>
+			</op:mcqMur>
+		</sp:trainUcMcqMur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 2</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">A quel type de fichier correspond cette écriture : fichier.jpg ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Un document Word</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">extension de fichier Word : .doc ou .docx</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Une image</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">on peut aussi trouver : .png, .jpeg, .gif...</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Une page internet</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">extension de fichier Internet : .html, .php, .xml...</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 3</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Quel est le raccourci clavier me permettant de lancer l'explorateur de fichiers ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">“Ctrl+Entrée"</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">“Maj+Echap"</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">“Windows+E”</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="3"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 4</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Sur quel onglet de la fenêtre de l'explorateur de fichiers puis-je gérer la taille de mes icônes ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Fichier</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Accueil</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Affichage</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">ou la touche "Ctrl"+ la molette de votre souris</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="3"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 5</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">Comment s'appelle la boutique d'application de Windows ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Office 365</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">suite bureautique de Microsoft</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Windows Store</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Boutique en ligne</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Outlook</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+						<sc:choiceExplanation>
+							<op:txt>
+								<sc:para xml:space="preserve">Service de messagerie de Microsoft</sc:para>
+							</op:txt>
+						</sc:choiceExplanation>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
+	</op:courseUa>
+</sc:item>

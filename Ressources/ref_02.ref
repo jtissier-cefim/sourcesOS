@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ref xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:refM>
+			<sp:ref>Utilisation de Windows</sp:ref>
+			<sp:desc>
+				<op:sTxt>
+					<sc:itemizedList>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://youtu.be/AKGWxUfWfDw</sp:url></op:urlM>Tutoriel Windows 8.1</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows/using-mouse#1TC=windows-7</sp:url></op:urlM>Comment utiliser la souris ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-xf/windows/using-keyboard#using-keyboard=windows-7</sp:url></op:urlM>Comment utiliser le clavier ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/touchpad</sp:url></op:urlM>Comment utiliser le pavé tactile ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows7/using-touch-gestures</sp:url></op:urlM>Comment utiliser les fonctions tactiles de son écran ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/files-folders-windows-explorer</sp:url></op:urlM>Comment utiliser l'explorateur ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/search-apps-files-settings</sp:url></op:urlM>Comment effectuer une recherche ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows-8/apps-windows-store-tutorial</sp:url></op:urlM>Comment rechercher et installer une application ?</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-fr/windows/personalization-accessibility-help#personalization-accessibility-help=windows-8&amp;v1h=win8tab1&amp;v2h=win7tab1&amp;v3h=winvistatab1&amp;v4h=winxptab1</sp:url></op:urlM>Comment personnaliser Windows ?</sc:phrase></sc:para>
+						</sc:listItem>
+					</sc:itemizedList>
+				</op:sTxt>
+			</sp:desc>
+		</op:refM>
+	</op:ref>
+</sc:item>

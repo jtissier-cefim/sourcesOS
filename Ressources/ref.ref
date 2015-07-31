@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ref xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:refM>
+			<sp:ref>L'histoire de Windows</sp:ref>
+			<sp:desc>
+				<op:sTxt>
+					<sc:itemizedList>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Microsoft_Windows</sp:url></op:urlM>Windows sur Wikipédia</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-FR/windows/history#T1=era0</sp:url><sp:title>Lien officiel Microsoft</sp:title></op:urlM>L'histoire officiel sur le site Microsoft</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://youtu.be/1tlagJbF9nQ</sp:url></op:urlM>Evolution de l'interface Windows</sc:phrase></sc:para>
+						</sc:listItem>
+						<sc:listItem>
+							<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://youtu.be/1njh6aQVupE</sp:url></op:urlM>Le futur Windows 10</sc:phrase></sc:para>
+						</sc:listItem>
+					</sc:itemizedList>
+				</op:sTxt>
+			</sp:desc>
+		</op:refM>
+	</op:ref>
+</sc:item>
