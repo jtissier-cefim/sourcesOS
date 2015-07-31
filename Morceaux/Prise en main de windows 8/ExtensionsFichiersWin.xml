@@ -24,6 +24,18 @@
 						</sp:txtRes>
 					</op:res>
 				</sp:info>
+				<sp:comp>
+					<op:pbTi>
+						<sp:title>Définition Wikipédia</sp:title>
+					</op:pbTi>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve"><sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>https://fr.wikipedia.org/wiki/Extension_de_nom_de_fichier</sp:url></op:urlM>Qu'est-ce qu'une extension de fichier ?</sc:phrase></sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sp:comp>
 			</op:pb>
 		</sp:pb>
 	</op:expUc>
