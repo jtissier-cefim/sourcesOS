@@ -18,7 +18,7 @@
 								</op:txtResM>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">Windows (littéralement « Fenêtres » en anglais) est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d'exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.</sc:para>
+										<sc:para xml:space="preserve"><sc:inlineStyle role="emp">Windows</sc:inlineStyle> (littéralement « Fenêtres » en anglais) est au départ une interface graphique unifiée produite par <sc:inlineStyle role="emp">Microsoft</sc:inlineStyle>, qui est devenue ensuite une gamme de systèmes d'exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.</sc:para>
 										<sc:para xml:space="preserve">(<sc:phrase role="url"><op:urlM xmlns:op="utc.fr:ics/opale3"><sp:url xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive">https://fr.wikipedia.org/wiki/Microsoft_Windows</sp:url></op:urlM>Wikipedia</sc:phrase>)</sc:para>
 										<sc:para xml:space="preserve">(<sc:phrase role="url"><op:urlM xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3" xmlns:sc="http://www.utc.fr/ics/scenari/v3/core"><sp:url>http://windows.microsoft.com/fr-FR/windows/history#T1=era0</sp:url></op:urlM>Site Microsoft</sc:phrase>)</sc:para>
 									</op:txt>
