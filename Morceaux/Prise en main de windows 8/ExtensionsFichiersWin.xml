@@ -16,12 +16,23 @@
 								</op:txtResM>
 								<sp:txt>
 									<op:txt>
-										<sc:para xml:space="preserve">En informatique, une extension de nom de fichier (ou simplement extension de fichier) est un suffixe ajouté au nom d'un fichier pour identifier son format. Ainsi, on dira qu'un fichier nommé exemple.txt a l'extension txt ou .txt.</sc:para>
+										<sc:para xml:space="preserve">En informatique, une extension de nom de fichier (ou simplement extension de fichier) est un suffixe ajouté au nom d'un fichier pour identifier son format. </sc:para>
+										<sc:para xml:space="preserve">Ainsi, on dira qu'un fichier nommé exemple.txt a l'extension txt ou .txt.</sc:para>
 									</op:txt>
 								</sp:txt>
 								<sp:img sc:refUri="/Ressources/Capture d’écran 2015-07-28 à 10.25.02.png"/>
 							</op:txtRes>
 						</sp:txtRes>
+					</op:res>
+				</sp:info>
+				<sp:info>
+					<op:pbTi/>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">L'extension de fichier permet au système d'exploitation de déterminer le <sc:inlineStyle role="emp">type</sc:inlineStyle> de fichier, et donc <sc:inlineStyle role="emp">le logiciel à utiliser</sc:inlineStyle>.</sc:para>
+							</op:txt>
+						</sp:txt>
 					</op:res>
 				</sp:info>
 			</op:pb>
