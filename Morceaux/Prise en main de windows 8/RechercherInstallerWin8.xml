@@ -24,16 +24,16 @@
 												<sc:para xml:space="preserve">Plusieurs méthodes sont disponibles pour accéder à votre outil de recherche : </sc:para>
 												<sc:itemizedList>
 													<sc:listItem>
-														<sc:para xml:space="preserve">Aller chercher l'icône de recherche (loupe) sur l'écran d'accueil </sc:para>
+														<sc:para xml:space="preserve">Aller chercher l'icône de recherche (loupe) sur <sc:inlineStyle role="emp">l'écran d'accueil</sc:inlineStyle> </sc:para>
 													</sc:listItem>
 													<sc:listItem>
-														<sc:para xml:space="preserve">Dans le menu des charmes (apparaissant sur la droite de l'écran, quand vous amenez votre souris dans le coin à droite)</sc:para>
+														<sc:para xml:space="preserve">Dans le <sc:inlineStyle role="emp">menu des charmes</sc:inlineStyle> (apparaissant sur la droite de l'écran, quand vous amenez votre souris dans le coin à droite)</sc:para>
 													</sc:listItem>
 													<sc:listItem>
 														<sc:para xml:space="preserve">Dans l'écran listant toutes les applications, </sc:para>
 													</sc:listItem>
 													<sc:listItem>
-														<sc:para xml:space="preserve">Directement en tapant au clavier sur l'écran d'accueil </sc:para>
+														<sc:para xml:space="preserve">Directement en tapant au clavier sur <sc:inlineStyle role="emp">l'écran d'accueil</sc:inlineStyle> </sc:para>
 													</sc:listItem>
 													<sc:listItem>
 														<sc:para xml:space="preserve">Le raccourcis clavier "Windows+S".</sc:para>
@@ -79,7 +79,7 @@
 										</op:txtResM>
 										<sp:txt>
 											<op:txt>
-												<sc:para xml:space="preserve">Vous pouvez installer une application soit en passant pas le "Windows Store" ou lancer un exécutable téléchargé ou copié sur votre ordinateur</sc:para>
+												<sc:para xml:space="preserve">Vous pouvez installer une application soit en passant pas le <sc:inlineStyle role="emp">"Windows Store"</sc:inlineStyle> ou lancer un exécutable téléchargé ou copié sur votre ordinateur</sc:para>
 											</op:txt>
 										</sp:txt>
 										<sp:img sc:refUri="/Ressources/Windows_Store_logo.png"/>
