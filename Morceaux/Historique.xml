@@ -7,11 +7,6 @@
 		<sp:intro>
 			<op:filter/>
 			<op:res>
-				<sp:txt>
-					<op:txt>
-						<sc:para xml:space="preserve">Le commencement</sc:para>
-					</op:txt>
-				</sp:txt>
 				<sp:txtRes>
 					<op:txtRes>
 						<op:txtResM>
@@ -36,7 +31,10 @@
 			<op:res>
 				<sp:txt>
 					<op:txt>
-						<sc:para xml:space="preserve">Windows 8.1 va dans le sens de Windows 8 en continuant à fournir une collection d'applications et une connectivité Cloud puissantes sur des appareils exceptionnels. C'est tout ce que les utilisateurs aiment dans Windows 8, avec des améliorations. Windows 10 continu d'évoluer vers cet objectif en rajoutant ce qui a fait le succès des versions antérieures comme la barre "Démarrer", mais aussi des nouvelles fonctionnalités comme l'assistant "Cortana" (l'équivalent de Siri sur Mac). La prochaine échéance sera en 2025, qui sera la date de fin programmée de Windows 10.</sc:para>
+						<sc:para xml:space="preserve">Windows 8.1 va dans le sens de Windows 8 en continuant à fournir une collection d'applications et une connectivité Cloud puissantes sur des appareils exceptionnels. </sc:para>
+						<sc:para xml:space="preserve">C'est tout ce que les utilisateurs aiment dans Windows 8, avec des améliorations. </sc:para>
+						<sc:para xml:space="preserve">Windows 10 continu d'évoluer vers cet objectif en rajoutant ce qui a fait le succès des versions antérieures comme la barre "Démarrer", mais aussi des nouvelles fonctionnalités comme l'assistant "Cortana" (l'équivalent de Siri sur Mac). </sc:para>
+						<sc:para xml:space="preserve">La prochaine échéance sera en 2025, qui sera la date de fin programmée de Windows 10.</sc:para>
 					</op:txt>
 				</sp:txt>
 			</op:res>

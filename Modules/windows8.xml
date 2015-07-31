@@ -37,7 +37,7 @@
 						</op:txtResM>
 						<sp:txt>
 							<op:txt>
-								<sc:para xml:space="preserve">Windows est le système d'exploitation développé par Microsoft, il est le plus utilisé au monde encore aujourd'hui, depuis c'est début dans les années 1970. Il reste le leader sur PC (Personnal Computer) loin devant Mac et Linux avec 90% de part de marché en 2014-2015.</sc:para>
+								<sc:para xml:space="preserve">Windows est le système d'exploitation développé par Microsoft, il est le plus utilisé au monde encore aujourd'hui, depuis ses débuts dans les années 1970. Il reste le leader sur PC (Personnal Computer) loin devant Mac et Linux avec 90% de part de marché en 2014-2015.</sc:para>
 							</op:txt>
 						</sp:txt>
 						<sp:img sc:refUri="/Ressources/microsoft-reveals-the-official-windows-10-wallpaper-485311-4.jpg"/>
@@ -83,7 +83,7 @@
 				</sp:res>
 				<sp:txt>
 					<op:txt>
-						<sc:para xml:space="preserve">Vous êtes arrivé à la fin de ce module.</sc:para>
+						<sc:para xml:space="preserve">Vous êtes arrivés à la fin de ce module.</sc:para>
 					</op:txt>
 				</sp:txt>
 			</op:res>
