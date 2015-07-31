@@ -22,6 +22,9 @@
 					<sc:listItem>
 						<sc:para xml:space="preserve">Rechercher et/ou installer une application</sc:para>
 					</sc:listItem>
+					<sc:listItem>
+						<sc:para xml:space="preserve">Se préparer à Windows 10</sc:para>
+					</sc:listItem>
 				</sc:itemizedList>
 			</op:sTxt>
 		</sp:obj>
