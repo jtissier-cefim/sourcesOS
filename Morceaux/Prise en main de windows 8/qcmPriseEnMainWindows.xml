@@ -238,5 +238,45 @@
 				<sc:solution choice="2"/>
 			</op:mcqSur>
 		</sp:trainUcMcqSur>
+		<sp:trainUcMcqSur>
+			<op:mcqSur>
+				<op:exeM>
+					<sp:title>Question 6</sp:title>
+				</op:exeM>
+				<sc:question>
+					<op:res>
+						<sp:txt>
+							<op:txt>
+								<sc:para xml:space="preserve">A quoi sert le clic secondaire ?</sc:para>
+							</op:txt>
+						</sp:txt>
+					</op:res>
+				</sc:question>
+				<sc:choices>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Ouvrir l'explorateur</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Afficher un menu contextuel</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+					<sc:choice>
+						<sc:choiceLabel>
+							<op:txt>
+								<sc:para xml:space="preserve">Supprimer un fichier</sc:para>
+							</op:txt>
+						</sc:choiceLabel>
+					</sc:choice>
+				</sc:choices>
+				<sc:solution choice="2"/>
+			</op:mcqSur>
+		</sp:trainUcMcqSur>
 	</op:courseUa>
 </sc:item>
