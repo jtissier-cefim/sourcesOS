@@ -4,7 +4,8 @@
 		<op:binAltM/>
 		<sp:unknown>
 			<op:mwUnM>
-				<sp:frag>&lt;xhtml:iframe xmlns:xhtml=&quot;http://www.w3.org/1999/xhtml&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/1tlagJbF9nQ&quot;&gt;&lt;/xhtml:iframe&gt;</sp:frag>
+				<sp:align>left</sp:align>
+				<sp:frag>&lt;xhtml:iframe xmlns:xhtml="http://www.w3.org/1999/xhtml" width="560" height="315" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/1tlagJbF9nQ"&gt;&lt;/xhtml:iframe&gt;</sp:frag>
 			</op:mwUnM>
 		</sp:unknown>
 	</op:mediaWeb>
